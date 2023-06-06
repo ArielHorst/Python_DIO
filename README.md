@@ -1,2 +1,7 @@
 # Python_DIO
-# Primeiro desafio -- Criação de um Sistema Bancário simplificado, contendo funcionalidades básicas (extrato, saque, depósito)
+# Desafio : Criação de um Sistema Bancário simplificado, contendo funcionalidades básicas:
+  # - Cadastro de cliente
+  # - Criação de conta corrente
+  # - Depósito
+  # - Saque
+  # - Extrato
